@@ -1,0 +1,28 @@
+
+.title {
+   font-weight: bolder;
+}
+.title a {
+    margin-top: 40px;
+}
+.Slide_title i {
+    position: relative;
+    top: 200px;
+    background-color: #ececec;
+    border-radius: 50%;
+    color: black;
+}
+.fb {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.boxing .card-content {
+    padding: 20px 0;
+}
+.slider .indicators .indicator-item {
+    display: none;
+}
+@media only screen and (max-width:992px) {
+    
+}
