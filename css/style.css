@@ -17,12 +17,13 @@
     justify-content: space-between;
     align-items: center;
 }
+.fb i {
+    position: relative;
+    top: 20px;
+}
 .boxing .card-content {
     padding: 20px 0;
 }
 .slider .indicators .indicator-item {
     display: none;
-}
-@media only screen and (max-width:992px) {
-    
 }
